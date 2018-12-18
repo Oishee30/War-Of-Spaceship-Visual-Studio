@@ -3,9 +3,9 @@ It is a shooting game project with various fun features.
 Tools-Visual Studio 2012, iGraphics
 
 </br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E7yYV9QxAYA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[![Watch the video](https://github.com/Oishee30/Sup-Chat-Application/blob/master/SUP.PNG)](https://youtu.be/rwZ_1mTtTpo)
+
+[![Watch the video](https://github.com/Oishee30/War-Of-Spaceship-Visual-Studio/blob/master/war.PNG)](https://www.youtube.com/embed/E7yYV9QxAYA)
 
   <h3>Features</h3>
                              <ul> 
@@ -15,6 +15,6 @@ Tools-Visual Studio 2012, iGraphics
 <li>Enemey Spaceships continuously send bullets</li>
 <li>User can push bullet with tab and move right,left,up & down.</li>
 <li>User can use only 3 special bullets pressing "p" button.</li>
-<li>Giant Spaceship comes at last level.</li>
+<li>Giant Spaceship comes at last level with more bullet power.</li>
 
 </ul>
